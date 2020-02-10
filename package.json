@@ -36,5 +36,8 @@
     },
     "buildConfig": {
         "uglify": true
+    },
+    "dependencies": {
+        "tslib": "^1.10.0"
     }
 }
